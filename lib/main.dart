@@ -115,6 +115,7 @@ class Me {
     return _singleton;
   }
 
+  //getter
   static String get name => _name;
 
   @override
